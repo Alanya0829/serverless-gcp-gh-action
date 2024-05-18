@@ -1,4 +1,4 @@
-service: serverless-calculate-bmi-giomarA
+service: serverless-calculate-bmi-giomarAlanya
 
 provider:
   name: google
